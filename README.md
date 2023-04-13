@@ -1,0 +1,2 @@
+# casuumo
+Bitcoin mining 
